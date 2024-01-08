@@ -1,0 +1,7 @@
+Id:2; Name : Nokia; Price: 300
+Id:0; Name : Iphone; Price: 3500
+Id:1; Name : Samsung; Price: 3000
+Id:2; Name : Nokia; Price: 300
+Id:3; Name : Motorolla; Price: 470
+Id:3; Name : Motorolla; Price: 470
+Id:3; Name : Motorolla; Price: 470
